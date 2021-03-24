@@ -19,8 +19,8 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">CELLA HOUSE beneran
-                                    <span>Sebuah Gudang Online test abcdef ini hansen</span>
+                                <h1 class="display-3  text-white">CELLA HOUSE
+                                    <span>Sebuah Gudang Online</span>
                                 
                                 </h1>
                                 <p class="lead  text-white">Cella House adalah platform website yang berfokus pada penyimpanan pakaian, aksesoris elektronik & aksesoris kecantikan yang dijadikan sharing storage atau penyimpanan bersama dimana data barang customer dapat diakses dan diolah melalui aplikasi berbasis web tersebut. </p>
