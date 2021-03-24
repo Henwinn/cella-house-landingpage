@@ -19,7 +19,7 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">CELLA HOUSE ini tes agi dah
+                                <h1 class="display-3  text-white">CELLA HOUSE
                                     <span>Sebuah Gudang Online</span>
                                 
                                 </h1>
