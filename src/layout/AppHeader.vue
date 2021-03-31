@@ -21,7 +21,7 @@
                         <i class="ni ni-collection d-lg-none"></i>
                         <span class="nav-link-inner--text">Home</span>
                     </a>
-                      <a slot="title" href="/landing" class="nav-link" data-toggle="dropdown" role="button">
+                      <a slot="title" href="#/login" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-collection d-lg-none"></i>
                         <span class="nav-link-inner--text">Login/Register</span>
                     </a>
