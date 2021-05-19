@@ -30,15 +30,15 @@
                                                  class="mb-3 mb-sm-0"
                                                  type="info"
                                                  >
-                                        Akses Item
+                                        Akses Cella House
                                     </base-button>
-                                    <base-button tag="a"
+                                    <!-- <base-button tag="a"
                                                  href="https://www.creative-tim.com/product/argon-design-system"
                                                  class="mb-3 mb-sm-0"
                                                  type="white"
                                                 >
                                         Dropship
-                                    </base-button>
+                                    </base-button> -->
                                 </div>
                             </div>
                         </div>
@@ -59,8 +59,8 @@
                             <icon name="ni ni-settings-gear-65" class="mb-5" size="lg" type="success" shadow
                                   rounded></icon>
                             <h3>Dashboard Cella House</h3>
-                            <p>Nanti ini isi nya screenshoot dashboard kita aja?</p>
-                            <ul class="list-unstyled mt-5">
+                            <p>Cella House memberikan jasa penawaran yang baik, harga sangat kompetitor</p>
+                            <!-- <ul class="list-unstyled mt-5">
                                 <li class="py-2">
                                     <div class="d-flex align-items-center">
                                         <badge type="success" circle class="mr-3" icon="ni ni-settings-gear-65"></badge>
@@ -79,7 +79,7 @@
                                         <h6 class="mb-0">Super friendly support team</h6>
                                     </div>
                                 </li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -323,28 +323,25 @@
             <div class="container pt-lg pb-300">
                 <div class="row text-center justify-content-center">
                     <div class="col-lg-10">
-                        <h2 class="display-3 text-white">Landingpage Cella House</h2>
-                        <p class="lead text-white">Landingpage Cella House menggunakan bootstrap free source. ini gw bingung mau masukin apa</p>
+                        <h2 class="display-3 text-white">Cella House</h2>
+                        <p class="lead text-white">Cella House mempunyai tujuan untuk membantu UMKM dalam berbisnis yang tidak mempunyai gudang</p>
                     </div>
                 </div>
                 <div class="row row-grid mt-5">
                     <div class="col-lg-4">
                         <icon name="ni ni-settings" size="lg" gradient="white" shadow round color="primary"></icon>
-                        <h5 class="text-white mt-3">Building tools</h5>
-                        <p class="text-white mt-3">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h5 class="text-white mt-3">Quality Control</h5>
+                        <p class="text-white mt-3">Quality control sangat baik yang dapat menimalisir adanya kesalahan dalam pengiriman</p>
                     </div>
                     <div class="col-lg-4">
                         <icon name="ni ni-ruler-pencil" size="lg" gradient="white" shadow round color="primary"></icon>
                         <h5 class="text-white mt-3">Grow your market</h5>
-                        <p class="text-white mt-3">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <p class="text-white mt-3">Cella House dapat membantu anda membesarkan produk anda dengan harga relatif terjangkau</p>
                     </div>
                     <div class="col-lg-4">
                         <icon name="ni ni-atom" size="lg" gradient="white" shadow round color="primary"></icon>
-                        <h5 class="text-white mt-3">Launch time</h5>
-                        <p class="text-white mt-3">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <h5 class="text-white mt-3">Connection</h5>
+                        <p class="text-white mt-3">Ciptakan koneksi anda dengan orang-orang dengan menggunakan Cella House, agar terlihat professional</p>
                     </div>
                 </div>
             </div>
