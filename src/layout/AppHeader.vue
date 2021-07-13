@@ -16,16 +16,6 @@
                 </div>
             </div>
 
-            <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
-                    <a slot="title" href="/landing" class="nav-link" data-toggle="dropdown" role="button">
-                        <i class="ni ni-collection d-lg-none"></i>
-                        <span class="nav-link-inner--text">Home</span>
-                    </a>
-                      <a slot="title" href="#/login" class="nav-link" data-toggle="dropdown" role="button">
-                        <i class="ni ni-collection d-lg-none"></i>
-                        <span class="nav-link-inner--text">Login/Register</span>
-                    </a>
-            </ul>
              
              <!-- <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
                 <base-dropdown tag="li" class="nav-item">
