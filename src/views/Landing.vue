@@ -26,7 +26,7 @@
                                 <p class="lead  text-white">Cella House adalah platform website yang berfokus pada penyimpanan pakaian, aksesoris elektronik & aksesoris kecantikan yang dijadikan sharing storage atau penyimpanan bersama dimana data barang customer dapat diakses dan diolah melalui aplikasi berbasis web tersebut. </p>
                                 <div class="btn-wrapper">
                                     <base-button tag="a"
-                                                 href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
+                                                 href="http://localhost:8081/"
                                                  class="mb-3 mb-sm-0"
                                                  type="info"
                                                  >
